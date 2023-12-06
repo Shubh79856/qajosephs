@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="405d5cce-ffb2-48a2-9125-0e519e5e0218" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ypry7b42eMbUF9woDAVjHbO2Ch" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/resources/testrunner" />
+    <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="S:\IntelliJWorkspace\com.remosys.liquorcartDev\com.remosys.liquorcartDev\src\resources\testrunner" />
+      <recent name="S:\IntelliJWorkspace\com.remosys.liquorcartDev\com.remosys.liquorcartDev" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="S:\IntelliJWorkspace\com.remosys.liquorcartDev\com.remosys.liquorcartDev\src\resources\config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.S:/IntelliJWorkspace/com.remosys.liquorcartDev/com.remosys.liquorcartDev/src/resources/testrunner/testNgRegression.xml">
+    <configuration name="AccountsPageTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.remosys.liquorcartDev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.remosys.liquorcartDev.testLayer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.remosys.liquorcartDev.testLayer" />
+      <option name="MAIN_CLASS_NAME" value="com.remosys.liquorcartDev.testLayer.AccountsPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.remosys.liquorcartDev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.remosys.liquorcartDev.testLayer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.remosys.liquorcartDev.testLayer" />
+      <option name="MAIN_CLASS_NAME" value="com.remosys.liquorcartDev.testLayer.HomePageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest.login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.remosys.liquorcartDev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.remosys.liquorcartDev.testLayer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.remosys.liquorcartDev.testLayer" />
+      <option name="MAIN_CLASS_NAME" value="com.remosys.liquorcartDev.testLayer.LoginPageTest" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S:/IntelliJWorkspace/com.remosys.liquorcartDev/com.remosys.liquorcartDev/src/resources/testrunner/testNgRegression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.remosys.liquorcartDev" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/resources/testrunner/testNgRegression.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S:/IntelliJWorkspace/com.remosys.liquorcartDev/com.remosys.liquorcartDev/src/resources/testrunner/testNgSmoke.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.remosys.liquorcartDev" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/resources/testrunner/testNgSmoke.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.S:/IntelliJWorkspace/com.remosys.liquorcartDev/com.remosys.liquorcartDev/src/resources/testrunner/testNgRegression.xml" />
+        <item itemvalue="TestNG.AccountsPageTest (1)" />
+        <item itemvalue="TestNG.S:/IntelliJWorkspace/com.remosys.liquorcartDev/com.remosys.liquorcartDev/src/resources/testrunner/testNgSmoke.xml" />
+        <item itemvalue="TestNG.HomePageTest (1)" />
+        <item itemvalue="TestNG.LoginPageTest.login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="405d5cce-ffb2-48a2-9125-0e519e5e0218" name="Default Changelist" comment="" />
+      <created>1701233615477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701233615477</updated>
+    </task>
+    <servers />
+  </component>
+</project>
